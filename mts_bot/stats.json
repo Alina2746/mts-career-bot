@@ -1,0 +1,50 @@
+{
+  "users": [
+    1926676774,
+    5430780507,
+    1243766033,
+    2072144613
+  ],
+  "diagnostics": [
+    {
+      "user_id": 1926676774,
+      "age": 22,
+      "education": "студент вуза",
+      "interests": "Python",
+      "filtered_count": 11,
+      "date": "2026-04-03 12:14:14"
+    },
+    {
+      "user_id": 1243766033,
+      "age": 18,
+      "education": "Студент вуза",
+      "interests": "Python",
+      "filtered_count": 6,
+      "date": "2026-04-04 13:04:32"
+    },
+    {
+      "user_id": 1243766033,
+      "age": 18,
+      "education": "п",
+      "interests": "п",
+      "filtered_count": 2,
+      "date": "2026-04-04 14:13:32"
+    },
+    {
+      "user_id": 1243766033,
+      "age": 18,
+      "education": "п",
+      "interests": "п",
+      "filtered_count": 2,
+      "date": "2026-04-04 14:14:15"
+    },
+    {
+      "user_id": 1926676774,
+      "age": 18,
+      "education": "20",
+      "interests": "кене",
+      "filtered_count": 2,
+      "date": "2026-04-04 17:57:47"
+    }
+  ]
+}
